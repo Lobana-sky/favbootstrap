@@ -45,7 +45,8 @@ header a{
 }
 
 .div1 hr{
-    color:orange;
+    background-color: orange;
+    border-radius: 15px;
     font-style: bold;
     height: 4px;
     width: 50PX;
@@ -94,7 +95,8 @@ header a{
 }
 
 .div2 hr{
-    color:WHITE;
+    background-color: white;
+    border-radius: 15px;
     font-style: bold;
     height: 4px;
     width: 50PX;
@@ -139,7 +141,8 @@ color:black;
 }
 
 .div3 hr{
-    color:orange;
+    background-color: orange;
+    border-radius: 15px;
     font-style: bold;
     height: 4px;
     width: 50PX;
