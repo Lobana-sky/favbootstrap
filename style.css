@@ -58,7 +58,10 @@ header a{
     background-color: orange; 
     display:block;
     text-align: center;
-    margin-bottom: 90px;
+   
+    margin:0 auto;
+    width:200px;
+    
    
 }
 
@@ -98,6 +101,8 @@ header a{
 }
 .div2 span
 {
+    margin: 0 auto;
+    width:200px;
     color: BLACK;
     padding: 10px;
     border-radius: 30px;
